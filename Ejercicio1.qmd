@@ -1,0 +1,5 @@
+```{bash}
+echo "Mi Destino favorito"
+echo "Monte General"
+echo "Playa Biezans"
+```
