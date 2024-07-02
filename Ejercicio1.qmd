@@ -1,5 +1,2 @@
-```{bash}
-echo "Mi Destino favorito"
-echo "Monte General"
-echo "Playa Biezans"
-```
+"Mi Destino favorito"
+"Playa Biezans"
