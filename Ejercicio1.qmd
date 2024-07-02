@@ -1,5 +1,1 @@
-```{bash}
-echo "Mi Destino favorito"
-echo "Monte General"
-echo "Playa Biezans"
-```
+Mi destino favorito para vacionar es playa biezans en Manuel Antonio
